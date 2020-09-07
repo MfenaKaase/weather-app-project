@@ -9,6 +9,7 @@ body{
     font-family: 'Raleway', sans-serif;
     padding: 2em 5em;
     font-family: 'Raleway', sans-serif;
+    background: url('./img/day.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
